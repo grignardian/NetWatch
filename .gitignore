@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+netwatch
+
+# Runtime logs
+logs/
+
+# Editor and temporary files
+.vscode/
+.idea/
+*~
+*.swp
