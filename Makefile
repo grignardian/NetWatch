@@ -1,7 +1,5 @@
 # ==============================================================================
 # Project: NetWatch - Linux Network Activity and Security Monitoring System
-# Course:  Unix Programming Lab (24B15CS214)
-# Program: B.Tech CSE (Cyber Security) - 2nd Year (3rd Semester)
 # ==============================================================================
 
 # Compiler and Flags
